@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MossGiantAnimatoinOverrideController
+  m_Controller: {fileID: 9100000, guid: 9951330c58b3a4e13be700ae0ceed780, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 17e415b4df8da4223a84d75e776a4366, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a1dad6cf0042f4bcdb9c60f8de284b3c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b85eedae6e934490fa7df22565b2ab02, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f17fc9de7ba9d409faa56a9178f665f5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a2a50b511d20d4c369bc952d2475e9a4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0df512d0b2bd74ae3bb7bf26a743ab19, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5717cfa3bfe8d4c9cbc41853db432475, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 642c6ee13b404452e8340d2705d68a3c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: acfe96563d72944bba083fcd2837bfd9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2a8840f2e793a4257aaf5c2c6a666875, type: 2}
